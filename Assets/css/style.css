@@ -1,0 +1,12 @@
+.main-header .container {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row;
+    padding: 5px;
+}
+
+.site-body *{
+    display: flex;
+    justify-content: center;
+}
+
