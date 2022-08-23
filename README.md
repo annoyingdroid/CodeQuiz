@@ -1,2 +1,2 @@
 # CodeQuiz
-A Basic Conding Quiz
+A Basic Coding Quiz
