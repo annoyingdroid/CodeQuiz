@@ -88,7 +88,7 @@ function choiceCheck(id, correctAnswer){
         score += correct;
     }
     else{
-        score -= penalty;
+        timerVal -= penalty;
     }
 }
 
